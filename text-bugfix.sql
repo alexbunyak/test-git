@@ -1,0 +1,5 @@
+/* bugfix */
+BEGIN
+  NULL;
+END;
+/
